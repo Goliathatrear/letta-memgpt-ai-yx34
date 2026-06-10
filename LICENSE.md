@@ -1,4 +1,4 @@
-# 
+# Ligero Letta (MemGPT) temas. Con análisis de documentos y inferencia en tiempo real — optimizado para el máximo rendimiento y eficiencia.
 
 
 
